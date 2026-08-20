@@ -1,9 +1,9 @@
 # SD Card Box
 Design for a parametric case to carry (many) SD cards. Intended for FDM 3D printing.
 
-**License:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+**License:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)  
 **Author:** Ken Werner
- 
+
 ## Overview
 The case consist of base with plus a snap-locking lid, printed as two parts on a shared hinge pin. Each card sits in its own tilted slot, angled toward the hinge so it stands at the same angle the lid needs when it swings shut. The two parts can be printed without support. A piece of 1.75 mm Filament can be used to connect the hinges.
 
